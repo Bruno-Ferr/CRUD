@@ -1,0 +1,11 @@
+.card {
+    display: flex;
+}
+
+.PersonName,
+.PersonAge,
+.PersonLocation,
+.editButton,
+.deleteButton {
+    margin: 20px;
+}
